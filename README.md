@@ -1,0 +1,1 @@
+Para acessar o código e executar as macros, antes de abrir o arquivo, você precisará desbloquear a planilha. Clique no botão direito, propriedades e marque a caixa de diálogo "desbloquear", pronto pode acessar toda linha de código e executar as macros.
